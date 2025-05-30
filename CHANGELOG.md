@@ -1,8 +1,12 @@
 # Changelog
 
-## [2.1.16](https://github.com/AlianBlank/com.gameframex.unity.tencent.xlua/tree/2.1.16) (2024-10-12)
+## [2.1.17](https://github.com/GameFrameX/com.gameframex.unity.tencent.xlua/tree/2.1.17) (2025-05-30)
 
-[Full Changelog](https://github.com/AlianBlank/com.gameframex.unity.tencent.xlua/compare/b536dd268ec6257e1835731c44c2fe9182401aa3...2.1.16)
+[Full Changelog](https://github.com/GameFrameX/com.gameframex.unity.tencent.xlua/compare/2.1.16...2.1.17)
+
+## [2.1.16](https://github.com/GameFrameX/com.gameframex.unity.tencent.xlua/tree/2.1.16) (2024-10-12)
+
+[Full Changelog](https://github.com/GameFrameX/com.gameframex.unity.tencent.xlua/compare/b536dd268ec6257e1835731c44c2fe9182401aa3...2.1.16)
 
 
 
