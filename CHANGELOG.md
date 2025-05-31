@@ -1,5 +1,9 @@
 # Changelog
 
+## [2.1.18](https://github.com/GameFrameX/com.gameframex.unity.tencent.xlua/tree/2.1.18) (2025-05-31)
+
+[Full Changelog](https://github.com/GameFrameX/com.gameframex.unity.tencent.xlua/compare/2.1.17...2.1.18)
+
 ## [2.1.17](https://github.com/GameFrameX/com.gameframex.unity.tencent.xlua/tree/2.1.17) (2025-05-30)
 
 [Full Changelog](https://github.com/GameFrameX/com.gameframex.unity.tencent.xlua/compare/2.1.16...2.1.17)
