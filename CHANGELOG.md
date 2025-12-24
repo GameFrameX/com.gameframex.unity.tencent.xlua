@@ -1,3 +1,10 @@
+# [2.2.0](https://github.com/gameframex/com.gameframex.unity.tencent.xlua/compare/2.1.18...2.2.0) (2025-12-24)
+
+
+### Features
+
+* **ci:** change ci ([7ef69f5](https://github.com/gameframex/com.gameframex.unity.tencent.xlua/commit/7ef69f5f81e379d6b9979c862101486ae6719732))
+
 # Changelog
 
 ## [2.1.18](https://github.com/GameFrameX/com.gameframex.unity.tencent.xlua/tree/2.1.18) (2025-05-31)
